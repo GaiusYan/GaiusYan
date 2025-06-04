@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaiusYan
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning Spring Boot,react
+- 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on web developpement
 - 📫 How to reach me gaiusyanbena11@gmail.com
 
